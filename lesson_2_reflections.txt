@@ -22,6 +22,7 @@ organized? How would branches help?
 	   branches while working on the new things on others.
 
 How do the diagrams help you visualize the branch structure?
+       By mapping the point when branches diverge.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
