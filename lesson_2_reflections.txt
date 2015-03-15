@@ -32,3 +32,7 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	An automated merging is usually the best course of action for
+	non-overlapping changes and saves a lot of effort when it is
+	not needed. Also git is quite conservative in what it does, so
+	it is  reasonably safe.
